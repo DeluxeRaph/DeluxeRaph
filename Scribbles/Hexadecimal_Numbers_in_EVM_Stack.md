@@ -12,4 +12,8 @@ I'll be using this as a resource to help me collect my thoughts while I'm lurkin
 The language I'll be lurking with is Huff.
 
 
+### Msg.Value in Huff
 
+- We need a way to receive the value, so we use the `callvalue` and add it to the stack.            [val]
+- With the value in the stack we need a way to store the value into memory so it can be read it.
+- 
