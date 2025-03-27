@@ -1,5 +1,3 @@
-### Howdy!! 🤠 
-
 ![supportisfree](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/supportisfree.gif)
 
 <!--
