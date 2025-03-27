@@ -1,5 +1,7 @@
 ### Howdy!! 🤠 
 
+![frankfrank](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/frankfrank%23510.gif)
+
 <!--
 **DeluxeRaph/DeluxeRaph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
