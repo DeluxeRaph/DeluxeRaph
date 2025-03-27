@@ -1,6 +1,5 @@
 ### Howdy!! 🤠 
 
-![pablo](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/PIXELpablosLOL.gif)
 ![frankfrank](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/frankfrank%23510.gif)
 
 <!--
