@@ -5,7 +5,7 @@ contract DeluxeRaph {
   bool public love;
   bytes32 public constant defi = "DEFI";
 
-function myheart (bytes32 _code) external returns(bool) {
+function myHeart (bytes32 _code) external returns(bool) {
     require(_code == defi, "Code is not defi");
     return love = true;
   }
