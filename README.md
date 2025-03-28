@@ -1,5 +1,4 @@
-![frankfrank](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/frankfrank%23510.gif)
-
+![frankfrank](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/frankfrank%23510.gif)![frankfrank](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/frankfrank%23510.gif)
 ```solidity
 contract DeluxeRaph {
   bool public love;
