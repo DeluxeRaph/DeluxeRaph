@@ -1,5 +1,17 @@
 ![frankfrank](https://github.com/DeluxeRaph/DeluxeRaph/blob/main/frankfrank%23510.gif)
 
+```solidity
+contract DeluxeRaph {
+  bool public love;
+  bytes32 public constant defi = "DEFI";
+
+function myheart (bytes32 _code) external returns(bool) {
+    require(_code == defi, "Code is not defi");
+    return love = true;
+  }
+}
+```
+
 <!--
 **DeluxeRaph/DeluxeRaph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
