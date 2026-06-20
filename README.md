@@ -1,16 +1,4 @@
-```solidity
-contract DeluxeRaph {
-  bool public love;
-  bytes32 public constant defi = "DEFI";
-
-function _myHeart (bytes32 _code) internal returns(bool) {
-    require(_code == defi, "Code is not defi");
-    return love = true;
-  }
-}
-```
-
-## My GitHub Metrics
+## My Metrics
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DeluxeRaph&show_icons=true&theme=transparent&hide_border=true" alt="DeluxeRaph GitHub stats" />
@@ -61,6 +49,18 @@ function _myHeart (bytes32 _code) internal returns(bool) {
     <td><a href="https://github.com/flayerlabs/flaunch-sdk/pull/17">Sync SDK addresses with latest contracts</a></td>
   </tr>
 </table>
+
+```solidity
+contract DeluxeRaph {
+  bool public love;
+  bytes32 public constant defi = "DEFI";
+
+function _myHeart (bytes32 _code) internal returns(bool) {
+    require(_code == defi, "Code is not defi");
+    return love = true;
+  }
+}
+```
 <!-- OPEN-SOURCE-END -->
 
 <!--
