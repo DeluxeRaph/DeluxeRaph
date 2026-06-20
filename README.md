@@ -1,9 +1,5 @@
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DeluxeRaph&show_icons=true&theme=transparent&hide_border=true" alt="DeluxeRaph GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DeluxeRaph&theme=transparent&hide_border=true" alt="DeluxeRaph GitHub contribution streak" />
+  <img src="./github-metrics.svg" alt="GitHub languages and activity metrics" />
 </p>
 
 ## Open Source
@@ -47,6 +43,7 @@
     <td><a href="https://github.com/flayerlabs/flaunch-sdk/pull/17">Sync SDK addresses with latest contracts</a></td>
   </tr>
 </table>
+<!-- OPEN-SOURCE-END -->
 
 ```solidity
 contract DeluxeRaph {
@@ -59,7 +56,6 @@ function _myHeart (bytes32 _code) internal returns(bool) {
   }
 }
 ```
-<!-- OPEN-SOURCE-END -->
 
 <!--
 **DeluxeRaph/DeluxeRaph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
