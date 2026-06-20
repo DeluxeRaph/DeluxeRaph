@@ -132,14 +132,16 @@ function updateReadme(repos) {
     : "        <li>No public contributions found yet.</li>";
 
   const readme = fs.readFileSync(readmePath, "utf8");
-  const nextReadme = readme.replace(
-    /        <!-- OPEN-SOURCE-START -->[\s\S]*?        <!-- OPEN-SOURCE-END -->/,
-    `        <!-- OPEN-SOURCE-START -->\n${generated}\n        <!-- OPEN-SOURCE-END -->`,
-  );
+  const markerPattern = /        <!-- OPEN-SOURCE-START -->[\s\S]*?        <!-- OPEN-SOURCE-END -->/;
 
-  if (nextReadme === readme) {
+  if (!markerPattern.test(readme)) {
     throw new Error("Open source markers were not found in README.md.");
   }
+
+  const nextReadme = readme.replace(
+    markerPattern,
+    `        <!-- OPEN-SOURCE-START -->\n${generated}\n        <!-- OPEN-SOURCE-END -->`,
+  );
 
   fs.writeFileSync(readmePath, nextReadme);
 }
