@@ -133,12 +133,12 @@ function updateReadme(repos) {
           const mergedBadge = badgeUrl(mergedLabel, repo.mergedPullRequests.length.toLocaleString(), "2ea44f");
 
           return [
-            "        <tr>",
-            `          <td><strong><a href="${repo.url}">${repo.nameWithOwner}</a></strong></td>`,
-            `          <td><img src="${starsBadge}" alt="${repo.stars.toLocaleString()} stars" /></td>`,
-            `          <td><img src="${mergedBadge}" alt="${repo.mergedPullRequests.length.toLocaleString()} ${mergedLabel}" /></td>`,
-            `          <td><a href="${latestPullRequest.url}">${escapeHtml(latestPullRequest.title)}</a></td>`,
-            "        </tr>",
+            "  <tr>",
+            `    <td><strong><a href="${repo.url}">${repo.nameWithOwner}</a></strong></td>`,
+            `    <td><img src="${starsBadge}" alt="${repo.stars.toLocaleString()} stars" /></td>`,
+            `    <td><img src="${mergedBadge}" alt="${repo.mergedPullRequests.length.toLocaleString()} ${mergedLabel}" /></td>`,
+            `    <td><a href="${latestPullRequest.url}">${escapeHtml(latestPullRequest.title)}</a></td>`,
+            "  </tr>",
           ].join("\n");
         })
         .join("\n")
@@ -146,20 +146,20 @@ function updateReadme(repos) {
 
   const table = rankedRepos.length
     ? [
-        "      <table>",
-        "        <tr>",
-        "          <th>Repository</th>",
-        "          <th>Stars</th>",
-        "          <th>Merged</th>",
-        "          <th>Latest merged PR</th>",
-        "        </tr>",
+        "<table>",
+        "  <tr>",
+        "    <th>Repository</th>",
+        "    <th>Stars</th>",
+        "    <th>Merged</th>",
+        "    <th>Latest merged PR</th>",
+        "  </tr>",
         generated,
-        "      </table>",
+        "</table>",
       ].join("\n")
     : generated;
 
   const readme = fs.readFileSync(readmePath, "utf8");
-  const markerPattern = /      <!-- OPEN-SOURCE-START -->[\s\S]*?      <!-- OPEN-SOURCE-END -->/;
+  const markerPattern = /<!-- OPEN-SOURCE-START -->[\s\S]*?<!-- OPEN-SOURCE-END -->/;
 
   if (!markerPattern.test(readme)) {
     throw new Error("Open source markers were not found in README.md.");
@@ -167,7 +167,7 @@ function updateReadme(repos) {
 
   const nextReadme = readme.replace(
     markerPattern,
-    `      <!-- OPEN-SOURCE-START -->\n${table}\n      <!-- OPEN-SOURCE-END -->`,
+    `<!-- OPEN-SOURCE-START -->\n${table}\n<!-- OPEN-SOURCE-END -->`,
   );
 
   fs.writeFileSync(readmePath, nextReadme);
