@@ -1,5 +1,3 @@
-## My Metrics
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DeluxeRaph&show_icons=true&theme=transparent&hide_border=true" alt="DeluxeRaph GitHub stats" />
 </p>
