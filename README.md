@@ -1,7 +1,3 @@
-<p>
-  <img src="./github-metrics.svg" alt="GitHub languages and activity metrics" />
-</p>
-
 ## Open Source
 
 <!-- OPEN-SOURCE-START -->
