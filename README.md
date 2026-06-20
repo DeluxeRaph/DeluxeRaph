@@ -38,9 +38,13 @@ function _myHeart (bytes32 _code) internal returns(bool) {
     <td width="50%" valign="top">
       <h4>Open Source</h4>
       <ul>
-        <li>Writing technical notes and learning resources</li>
-        <li>Exploring Ethereum internals and protocol design</li>
-        <li>Building in public through experiments and repositories</li>
+        <!-- OPEN-SOURCE-START -->
+        <li><a href="https://github.com/paradigmxyz/artemis">paradigmxyz/artemis</a> - 2,946 stars; 2 PRs</li>
+        <li><a href="https://github.com/Light-Heart-Labs/DreamServer">Light-Heart-Labs/DreamServer</a> - 2,098 stars; 1 commit, 3 PRs</li>
+        <li><a href="https://github.com/base/base">base/base</a> - 696 stars; 6 commits, 4 PRs</li>
+        <li><a href="https://github.com/flayerlabs/flaunchgg-contracts">flayerlabs/flaunchgg-contracts</a> - 69 stars; 2 PRs</li>
+        <li><a href="https://github.com/flayerlabs/flaunch-sdk">flayerlabs/flaunch-sdk</a> - 17 stars; 1 commit, 2 PRs</li>
+        <!-- OPEN-SOURCE-END -->
       </ul>
     </td>
   </tr>
