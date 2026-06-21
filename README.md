@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Light-Heart-Labs/DreamServer">Light-Heart-Labs/DreamServer</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-2%2C099-f7b731?style=flat-square" alt="2,099 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-2%2C106-f7b731?style=flat-square" alt="2,106 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/Light-Heart-Labs/DreamServer/pull/1537">Skip disabled optional services during install health checks</a></td>
   </tr>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/base/base">base/base</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-696-f7b731?style=flat-square" alt="696 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-702-f7b731?style=flat-square" alt="702 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-3-2ea44f?style=flat-square" alt="3 merged PRs" /></td>
     <td><a href="https://github.com/base/base/pull/86">issue 85 quick fix</a></td>
   </tr>
