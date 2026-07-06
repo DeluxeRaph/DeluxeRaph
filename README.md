@@ -9,10 +9,10 @@
     <th>Latest merged PR</th>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/Light-Heart-Labs/ODS">Light-Heart-Labs/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-2%2C512-f7b731?style=flat-square" alt="2,512 stars" /></td>
+    <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
+    <td><img src="https://img.shields.io/badge/stars-2%2C600-f7b731?style=flat-square" alt="2,600 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
-    <td><a href="https://github.com/Light-Heart-Labs/ODS/pull/1537">Skip disabled optional services during install health checks</a></td>
+    <td><a href="https://github.com/Osmantic/ODS/pull/1537">Skip disabled optional services during install health checks</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/obi1kenobi/cargo-semver-checks">obi1kenobi/cargo-semver-checks</a></strong></td>
@@ -22,13 +22,13 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/base/base">base/base</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-779-f7b731?style=flat-square" alt="779 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-780-f7b731?style=flat-square" alt="780 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-3-2ea44f?style=flat-square" alt="3 merged PRs" /></td>
     <td><a href="https://github.com/base/base/pull/86">issue 85 quick fix</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/eth-protocol-fellows/protocol-studies">eth-protocol-fellows/protocol-studies</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-271-f7b731?style=flat-square" alt="271 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-272-f7b731?style=flat-square" alt="272 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/eth-protocol-fellows/protocol-studies/pull/32">Keccak256 section in the wiki</a></td>
   </tr>
