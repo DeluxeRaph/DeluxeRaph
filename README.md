@@ -10,13 +10,13 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-2%2C889-f7b731?style=flat-square" alt="2,889 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-2%2C916-f7b731?style=flat-square" alt="2,916 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1537">Skip disabled optional services during install health checks</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/obi1kenobi/cargo-semver-checks">obi1kenobi/cargo-semver-checks</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-1%2C651-f7b731?style=flat-square" alt="1,651 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-1%2C652-f7b731?style=flat-square" alt="1,652 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/obi1kenobi/cargo-semver-checks/pull/820">Added inherent_associated_const_now_doc_hidden</a></td>
   </tr>
