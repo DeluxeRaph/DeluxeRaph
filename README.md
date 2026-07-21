@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-3%2C312-f7b731?style=flat-square" alt="3,312 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-3%2C343-f7b731?style=flat-square" alt="3,343 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1537">Skip disabled optional services during install health checks</a></td>
   </tr>
