@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-5%2C307-f7b731?style=flat-square" alt="5,307 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-5%2C790-f7b731?style=flat-square" alt="5,790 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1578">fix: align manifest schema validator with service manifests</a></td>
   </tr>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/eric-tramel/moraine">eric-tramel/moraine</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-115-f7b731?style=flat-square" alt="115 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-116-f7b731?style=flat-square" alt="116 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/eric-tramel/moraine/pull/556">fix(mcp): label untitled session listings</a></td>
   </tr>
