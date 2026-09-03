@@ -10,19 +10,19 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-5%2C847-f7b731?style=flat-square" alt="5,847 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-6%2C005-f7b731?style=flat-square" alt="6,005 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1578">fix: align manifest schema validator with service manifests</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/obi1kenobi/cargo-semver-checks">obi1kenobi/cargo-semver-checks</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-1%2C675-f7b731?style=flat-square" alt="1,675 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-1%2C674-f7b731?style=flat-square" alt="1,674 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/obi1kenobi/cargo-semver-checks/pull/820">Added inherent_associated_const_now_doc_hidden</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/base/base">base/base</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-861-f7b731?style=flat-square" alt="861 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-864-f7b731?style=flat-square" alt="864 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-3-2ea44f?style=flat-square" alt="3 merged PRs" /></td>
     <td><a href="https://github.com/base/base/pull/86">issue 85 quick fix</a></td>
   </tr>
