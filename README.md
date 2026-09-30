@@ -10,13 +10,13 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-6%2C899-f7b731?style=flat-square" alt="6,899 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-6%2C906-f7b731?style=flat-square" alt="6,906 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1578">fix: align manifest schema validator with service manifests</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/obi1kenobi/cargo-semver-checks">obi1kenobi/cargo-semver-checks</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-1%2C681-f7b731?style=flat-square" alt="1,681 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-1%2C683-f7b731?style=flat-square" alt="1,683 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/obi1kenobi/cargo-semver-checks/pull/820">Added inherent_associated_const_now_doc_hidden</a></td>
   </tr>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/eth-protocol-fellows/protocol-studies">eth-protocol-fellows/protocol-studies</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-275-f7b731?style=flat-square" alt="275 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-276-f7b731?style=flat-square" alt="276 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/eth-protocol-fellows/protocol-studies/pull/32">Keccak256 section in the wiki</a></td>
   </tr>
