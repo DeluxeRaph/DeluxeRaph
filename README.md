@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-7%2C555-f7b731?style=flat-square" alt="7,555 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-7%2C569-f7b731?style=flat-square" alt="7,569 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1578">fix: align manifest schema validator with service manifests</a></td>
   </tr>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/eth-protocol-fellows/protocol-studies">eth-protocol-fellows/protocol-studies</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-277-f7b731?style=flat-square" alt="277 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-278-f7b731?style=flat-square" alt="278 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/eth-protocol-fellows/protocol-studies/pull/32">Keccak256 section in the wiki</a></td>
   </tr>
