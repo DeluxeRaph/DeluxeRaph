@@ -10,19 +10,19 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-7%2C683-f7b731?style=flat-square" alt="7,683 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-7%2C695-f7b731?style=flat-square" alt="7,695 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1578">fix: align manifest schema validator with service manifests</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/obi1kenobi/cargo-semver-checks">obi1kenobi/cargo-semver-checks</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-1%2C701-f7b731?style=flat-square" alt="1,701 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-1%2C702-f7b731?style=flat-square" alt="1,702 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/obi1kenobi/cargo-semver-checks/pull/820">Added inherent_associated_const_now_doc_hidden</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/base/base">base/base</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-920-f7b731?style=flat-square" alt="920 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-921-f7b731?style=flat-square" alt="921 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-3-2ea44f?style=flat-square" alt="3 merged PRs" /></td>
     <td><a href="https://github.com/base/base/pull/86">issue 85 quick fix</a></td>
   </tr>
@@ -34,9 +34,9 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/vx-lang/Vx">vx-lang/Vx</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-234-f7b731?style=flat-square" alt="234 stars" /></td>
-    <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
-    <td><a href="https://github.com/vx-lang/Vx/pull/1927">Extract HIR flattening tests into a separate module</a></td>
+    <td><img src="https://img.shields.io/badge/stars-236-f7b731?style=flat-square" alt="236 stars" /></td>
+    <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
+    <td><a href="https://github.com/vx-lang/Vx/pull/1970">Support value-producing match expressions in the default compiler</a></td>
   </tr>
 </table>
 <!-- OPEN-SOURCE-END -->
