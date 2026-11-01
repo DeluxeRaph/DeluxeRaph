@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-7%2C727-f7b731?style=flat-square" alt="7,727 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-7%2C728-f7b731?style=flat-square" alt="7,728 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1578">fix: align manifest schema validator with service manifests</a></td>
   </tr>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/vx-lang/Vx">vx-lang/Vx</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-239-f7b731?style=flat-square" alt="239 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-240-f7b731?style=flat-square" alt="240 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/vx-lang/Vx/pull/1970">Support value-producing match expressions in the default compiler</a></td>
   </tr>
