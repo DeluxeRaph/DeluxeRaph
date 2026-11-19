@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Osmantic/ODS">Osmantic/ODS</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-7%2C851-f7b731?style=flat-square" alt="7,851 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-7%2C856-f7b731?style=flat-square" alt="7,856 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-2-2ea44f?style=flat-square" alt="2 merged PRs" /></td>
     <td><a href="https://github.com/Osmantic/ODS/pull/1578">fix: align manifest schema validator with service manifests</a></td>
   </tr>
@@ -28,13 +28,13 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/eth-protocol-fellows/protocol-studies">eth-protocol-fellows/protocol-studies</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-278-f7b731?style=flat-square" alt="278 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-279-f7b731?style=flat-square" alt="279 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PR-1-2ea44f?style=flat-square" alt="1 merged PR" /></td>
     <td><a href="https://github.com/eth-protocol-fellows/protocol-studies/pull/32">Keccak256 section in the wiki</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/vx-lang/Vx">vx-lang/Vx</a></strong></td>
-    <td><img src="https://img.shields.io/badge/stars-258-f7b731?style=flat-square" alt="258 stars" /></td>
+    <td><img src="https://img.shields.io/badge/stars-259-f7b731?style=flat-square" alt="259 stars" /></td>
     <td><img src="https://img.shields.io/badge/merged%20PRs-3-2ea44f?style=flat-square" alt="3 merged PRs" /></td>
     <td><a href="https://github.com/vx-lang/Vx/pull/2316">Fix repeated index calls in tensor compound assignments</a></td>
   </tr>
